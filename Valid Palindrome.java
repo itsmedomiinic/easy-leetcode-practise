@@ -20,3 +20,8 @@ class Solution {
         return true;
     }
 }
+
+/*
+Runtime: 35 ms, faster than 38.24% of Java online submissions for Valid Palindrome.
+Memory Usage: 48 MB, less than 19.02% of Java online submissions for Valid Palindrome.
+*/
