@@ -18,3 +18,8 @@ class Solution {
         return true;
     }
 }
+
+/*
+Runtime: 15 ms, faster than 51.05% of Java online submissions for Palindrome Number.
+Memory Usage: 45 MB, less than 41.37% of Java online submissions for Palindrome Number.
+*/
